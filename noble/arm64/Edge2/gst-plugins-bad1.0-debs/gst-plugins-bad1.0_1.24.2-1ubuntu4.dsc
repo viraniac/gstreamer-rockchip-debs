@@ -22,13 +22,13 @@ Package-List:
 Checksums-Sha1:
  2b35e02f39a128f99f541779ae017b8b0bd3607c 7046860 gst-plugins-bad1.0_1.24.2.orig.tar.xz
  482c117c5e1752e69c8a9279978be265229f9f2d 833 gst-plugins-bad1.0_1.24.2.orig.tar.xz.asc
- 857605d72d49a5d635afed68b408a02b56f53252 75188 gst-plugins-bad1.0_1.24.2-1ubuntu4.debian.tar.xz
+ 2ac386158eb9419e843b50afc11f586896320168 75184 gst-plugins-bad1.0_1.24.2-1ubuntu4.debian.tar.xz
 Checksums-Sha256:
  448e32787bc82b586c6cb2f81c9a8ef404fea4f77f25566fe06e597a3f59136b 7046860 gst-plugins-bad1.0_1.24.2.orig.tar.xz
  a3c06d7c7b09adf0b8a668bea2b657c577fed9d6c11fbe92d8e1d1b55d8c16a7 833 gst-plugins-bad1.0_1.24.2.orig.tar.xz.asc
- 627087a12cc15372fd1381225ef580c4d3ab2ad53c8b0bf3508242a315c9d243 75188 gst-plugins-bad1.0_1.24.2-1ubuntu4.debian.tar.xz
+ ab8bb89e420ed4b11ebc85a0ad5001cd9f9279179108a59ef721b8cc4f36e4d2 75184 gst-plugins-bad1.0_1.24.2-1ubuntu4.debian.tar.xz
 Files:
  06d6a2472a4dfa441f3220890736c474 7046860 gst-plugins-bad1.0_1.24.2.orig.tar.xz
  89fb89a3745197fcf49014cfde56c3c3 833 gst-plugins-bad1.0_1.24.2.orig.tar.xz.asc
- cbbc2a5c73def2fe31a27f7b311cadcd 75188 gst-plugins-bad1.0_1.24.2-1ubuntu4.debian.tar.xz
+ d686dab82946e1271eb32266011f6d48 75184 gst-plugins-bad1.0_1.24.2-1ubuntu4.debian.tar.xz
 Original-Maintainer: Maintainers of GStreamer packages <gst-plugins-bad1.0@packages.debian.org>
