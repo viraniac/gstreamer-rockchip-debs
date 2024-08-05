@@ -17,11 +17,11 @@ Package-List:
  libgstreamer1.0-dev deb libdevel optional arch=any
 Checksums-Sha1:
  bf2498174832b23bc9ebba516550374ce4ca342e 2681088 gstreamer1.0_1.20.3.orig.tar.xz
- b4cd5de5315d3139b821457105370b49239a7de8 47488 gstreamer1.0_1.20.3-0ubuntu1.debian.tar.xz
+ 4dea9efb817a6c20a2c856689dbbb75f2a45d0e7 47500 gstreamer1.0_1.20.3-0ubuntu1.debian.tar.xz
 Checksums-Sha256:
  607daf64bbbd5fb18af9d17e21c0d22c4d702fffe83b23cb22d1b1af2ca23a2a 2681088 gstreamer1.0_1.20.3.orig.tar.xz
- c69b40a4fb6afea70c37d45f6eb04b07eb71d4f1a5cad672f36011a839097b6f 47488 gstreamer1.0_1.20.3-0ubuntu1.debian.tar.xz
+ 8ba6bae7061fc1a4a3850cc161f87b7f1ed72ba7524f279b59d2650d0e279b4b 47500 gstreamer1.0_1.20.3-0ubuntu1.debian.tar.xz
 Files:
  9c1aebfd5c182e60ca0eb8890b410a54 2681088 gstreamer1.0_1.20.3.orig.tar.xz
- 3efa06ea067cde25f6f21c3afe9e9fb8 47488 gstreamer1.0_1.20.3-0ubuntu1.debian.tar.xz
+ f58ae00a215fc589f3e1fdc233ca69e4 47500 gstreamer1.0_1.20.3-0ubuntu1.debian.tar.xz
 Original-Maintainer: Maintainers of GStreamer packages <gstreamer1.0@packages.debian.org>
